@@ -21,6 +21,7 @@ OctobearはOctocatおよびくまモンの複合著作物です。
 > You can use an octocat as your personal avatar, but not for your company or a product you're building. You are welcome to show your <3 for GitHub, but not appear as if you == GitHub.
 
 * [くまモン利用申請 ーよくある質問ー](https://kumamon-official.jp/faq)
+
 > Q: 個人が利用する場合でも、利用申請が必要となるか。
 > 以下に例示するような場合は必要ありません。
 > 
